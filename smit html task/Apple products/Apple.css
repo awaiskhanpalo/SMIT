@@ -1,0 +1,63 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styles */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Hero Section */
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+}
+
+.hero-section .btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+/* Product Details */
+.product-details .detail-card {
+    text-align: center;
+}
+
+.product-details h3 {
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
+
+.product-details p {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #f8f9fa;
+    color: #555;
+}
+
+footer a {
+    margin: 0 10px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
